@@ -1,0 +1,23 @@
+[
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "tagline": "Signature solitaire from The Diamond Guy",
+    "model": 1,
+    "badge": "Configurable"
+  },
+  {
+    "id": "elegant-diamond-ring",
+    "name": "Elegant Diamond Ring",
+    "tagline": "Refined proportions and a clean setting",
+    "model": 2,
+    "badge": "Configurable"
+  },
+  {
+    "id": "eternity-ring",
+    "name": "Eternity Ring",
+    "tagline": "Continuous sparkle, designed for everyday luxury",
+    "model": 1,
+    "badge": "Configurable"
+  }
+]
